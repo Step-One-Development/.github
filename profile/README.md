@@ -2,8 +2,7 @@
 
 Step-One is all about Software Development and Support and having fun doing it.
 
-Some projects are rather private or are owned by third companies, but I feel the need to present some of them on GitHub as a way of saying thanks to the worldwide community 
-that helped me a lot over the years.
+Some projects are rather private or are owned by third companies, but I feel the need to present some of them on GitHub as a way of saying thanks to the worldwide community that helped me a lot over the years.
 With libraries, examples, advice and error solving. Past years specifically with Arduino.
 
 **Keywords:**
@@ -13,6 +12,8 @@ Take a look at the repositories!
 
 Regards
 John Ohniudra
+
+## Work In Progress
 
 <!--
 
